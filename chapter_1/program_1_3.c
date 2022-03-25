@@ -4,7 +4,7 @@
 
 /**
  * Returns the index of the first negative integer.
- * @param {int[]} A - Array of integers
+ * @param {int[]} a - Array of integers
  */
 int find_index_of_first_negative(int a[])
 {
